@@ -1,0 +1,366 @@
+
+// 新相机滤镜-直播
+"lsq_filter_SkinFair_2" = "白皙";
+"lsq_filter_SkinDawn_2" = "曙光";
+"lsq_filter_SkinSummer_2" = "初夏";
+"lsq_filter_SkinButter_2" = "淡奶";
+"lsq_filter_SkinJapanese_2" = "日系";
+"lsq_filter_SkinExtraordinary_2" = "非凡";
+"lsq_filter_SkinTender_2" = "粉嫩";
+"lsq_filter_SkinConfession_2" = "告白";
+"lsq_filter_SkinRose_2" = "玫瑰";
+"lsq_filter_SkinNostalgia_2" = "怀旧";
+"lsq_filter_SkinWarm_2" = "温暖";
+"lsq_filter_SkinNatural_2" = "自然";
+"lsq_filter_SkinClear_2" = "清晰";
+"lsq_filter_SkinLeisurely_2" = "清逸";
+"lsq_filter_SkinLotus_2" = "莲花";
+"lsq_filter_SkinHoney_2" = "蜜糖";
+"lsq_filter_SkinDusk_2" = "黄昏";
+"lsq_filter_SkinBeckoning_2" = "心动";
+"lsq_filter_SkinSweet_2" = "甜蜜";
+"lsq_filter_SkinPlain_2" = "素净";
+
+// 美颜
+"lsq_filter_set_smoothing" = "磨皮";
+"lsq_filter_set_whitening" = "美白";
+"lsq_filter_set_mixied" = "效果";
+"lsq_filter_set_ruddy" = "红润";
+"lsq_filter_set_sharpen" = "锐化";
+
+// 微整形
+
+"lsq_filter_set_skin_beauty" = "自然美肤";
+"lsq_filter_set_skin_precision" = "精准美颜";
+"lsq_filter_set_skin_extreme" = "极度美颜";
+
+// 漫画
+"lsq_filter_CHComics_Live" = "国漫";
+"lsq_filter_USComics_Live" = "美漫";
+"lsq_filter_JPComics_Live" = "日漫";
+"lsq_filter_Monochrome_Live" = "单色";
+"lsq_filter_Ink_Live" = "墨水";
+"lsq_filter_Lightcolor_Live" = "淡彩";
+
+
+/* 微整形 */
+"tu_微整形" = "微整形";
+/* 取消 */
+"tu_取消" = "取消";
+/* 确定 */
+"tu_确定" = "确定";
+/* 将所有参数恢复默认吗？ */
+"tu_将所有参数恢复默认吗？" = "将所有参数恢复默认吗？";
+/* 重置 */
+"tu_重置" = "重置";
+/* 无 */
+"tu_无" = "无";
+/* 漫画 */
+"tu_漫画" = "漫画";
+/* 美肤 */
+"tu_美肤" = "美肤";
+/* 滤镜 */
+"tu_滤镜" = "滤镜";
+/* 贴纸 */
+"tu_贴纸" = "贴纸";
+/* 哈哈镜 */
+"tu_哈哈镜" = "哈哈镜";
+/* 变声 */
+"tu_变声" = "变声";
+/* 美妆 */
+"tu_美妆" = "美妆";
+
+"girl" = "萝莉";
+"woman" = "女生";
+"monster" = "怪兽";
+"uncle" = "大叔";
+
+
+//3.4.6 新相机滤镜
+"lsq_filter_group_Sharp_Live" = "锐利";
+"lsq_filter_group_Scenery_Live" = "风景";
+"lsq_filter_group_Food_Live" = "美食";
+"lsq_filter_group_Portrait_Live" = "人像";
+
+    
+//锐利
+"lsq_filter_Sharp_Orange_2" = "橙";
+"lsq_filter_Sharp_Black_2" = "黑";
+"lsq_filter_Sharp_History_2" = "历史";
+"lsq_filter_Sharp_Red_2" = "红";
+"lsq_filter_Sharp_Neon_2" = "霓虹";
+"lsq_filter_Sharp_Ash_2" = "茶灰";
+"lsq_filter_Sharp_Pink_2" = "粉";
+"lsq_filter_Sharp_Past_2" = "往事";
+"lsq_filter_Sharp_Otimes_2" = "旧时代";
+"lsq_filter_Sharp_Quiet_2" = "幽静";
+"lsq_filter_Sharp_Mottled_2" = "斑驳";
+"lsq_filter_Sharp_Messy_2" = "杂乱";
+"lsq_filter_Sharp_Imprint_2" = "印记";
+"lsq_filter_Sharp_Nostalgia_2" = "怀旧";
+"lsq_filter_Sharp_Dream_2" = "梦幻";
+"lsq_filter_Sharp_Contrast_2" = "反差";
+"lsq_filter_Sharp_Dark_2" = "暗夜";
+
+//风景
+"lsq_filter_Scenery_Withered_2" = "凋零";
+"lsq_filter_Scenery_Grace_2" = "优雅";
+"lsq_filter_Scenery_Sunset_2" = "晚霞";
+"lsq_filter_Scenery_Sunrise_2" = "日出";
+"lsq_filter_Scenery_Lautumn_2" = "晚秋";
+"lsq_filter_Scenery_Silent_2" = "寂静";
+"lsq_filter_Scenery_Film_2" = "电影";
+"lsq_filter_Scenery_City_2" = "城市";
+"lsq_filter_Scenery_Afternoon_2" = "午后";
+"lsq_filter_Scenery_Birch_2" = "白桦";
+"lsq_filter_Scenery_Blue_2" = "净蓝";
+"lsq_filter_Scenery_Picnic_2" = "野餐";
+"lsq_filter_Scenery_Tale_2" = "童话";
+"lsq_filter_Scenery_Innocence_2" = "童真";
+"lsq_filter_Scenery_Izu_2" = "伊豆";
+"lsq_filter_Scenery_Fresh_2" = "清新";
+"lsq_filter_Scenery_Rain_2" = "冷雨";
+"lsq_filter_Scenery_Flower_2" = "花海";
+"lsq_filter_Scenery_SNight_2" = "静夜";
+
+//美食
+"lsq_filter_Food_Lime_2" = "青柠";
+"lsq_filter_Food_Mangosteen_2" = "山竹";
+"lsq_filter_Food_Honey_2" = "蜜糖";
+"lsq_filter_Food_Peach_2" = "蜜桃";
+"lsq_filter_Food_Caramel_2" = "焦糖";
+"lsq_filter_Food_Whisky_2" = "威士忌";
+"lsq_filter_Food_Light_2" = "淡酒";
+"lsq_filter_Food_Lemon_2" = "柠檬";
+"lsq_filter_Food_Delicious_2" = "美味";
+
+//人像
+"lsq_filter_Portrait_Desserts_2" = "甜点";
+"lsq_filter_Portrait_Fog_2" = "水雾";
+"lsq_filter_Portrait_Sweet_2" = "甜系";
+"lsq_filter_Portrait_Warm_2" = "温暖";
+"lsq_filter_Portrait_Candy_2" = "糖果";
+"lsq_filter_Portrait_Milk_2" = "牛奶";
+"lsq_filter_Portrait_Dawn_2" = "晨光";
+"lsq_filter_Portrait_Texture_2" = "质感";
+"lsq_filter_Portrait_Cream_2" = "奶油";
+"lsq_filter_Portrait_Dusk_2" = "黄昏";
+"lsq_filter_Portrait_Ruddy_2" = "红润";
+"lsq_filter_Portrait_Icream_2" = "冰淇淋";
+"lsq_filter_Portrait_Rosy_2" = "粉嫩";
+"lsq_filter_Portrait_Indifference_2" = "冷淡";
+"lsq_filter_Portrait_Soda_2" = "苏打";
+"lsq_filter_Portrait_Retro_2" = "复古";
+"lsq_filter_Portrait_Bright_2" = "光洁";
+"lsq_filter_Portrait_Pure_2" = "清纯";
+"lsq_filter_Portrait_First_2" = "初见";
+"lsq_filter_Portrait_Cherry_2" = "樱桃";
+"lsq_filter_Portrait_Bellflower_2" = "桔梗";
+"lsq_filter_Portrait_Spring_2" = "春天";
+"lsq_filter_Portrait_Moisten_2" = "水润";
+"lsq_filter_Portrait_Clear_2" = "清澈";
+"lsq_filter_Portrait_Pale_2" = "白皙";
+"lsq_filter_Portrait_Natural_2" = "自然";
+
+
+/*--- 4.0.0 - 美妆 ---*/
+"tu_lipstick" = "口红";
+"tu_blush" = "腮红";
+"tu_eyebrow" = "眉毛";
+"tu_eyeshadow" = "眼影";
+"tu_eyeliner" = "眼线";
+"tu_eyelash" = "睫毛";
+"tu_shading powder" = "修容";
+"tu_cosmeticReset" = "一键卸妆";
+
+//眼线
+"tu_back" = "收起";
+"tu_reset" = "无";
+
+//口红
+"lipStick_1" = "枫叶红";
+"lipStick_2" = "正红色";
+"lipStick_3" = "牛血红";
+"lipStick_4" = "番茄橘";
+"lipStick_5" = "暖柿红";
+"lipStick_6" = "正橘色";
+"lipStick_7" = "珊瑚粉";
+"lipStick_8" = "玫红色";
+"lipStick_9" = "梅子色";
+"lipStick_10" = "覆盆子";
+"lipStick_11" = "肉桂色";
+"lipStick_12" = "奶茶色";
+"lipStick_13" = "豆沙色";
+
+"tu_水润" = "水润";
+"tu_滋润" = "滋润";
+"tu_雾面" = "雾面";
+
+//眉毛
+"tu_雾眉" = "雾眉";
+"tu_雾根眉" = "雾根眉";
+
+"tu_标准黑" = "标准黑";
+"tu_标准灰" = "标准灰";
+"tu_标准棕" = "标准棕";
+"tu_柳弯黑" = "柳弯黑";
+"tu_柳弯灰" = "柳弯灰";
+"tu_柳弯棕" = "柳弯棕";
+"tu_叶细黑" = "叶细黑";
+"tu_叶细灰" = "叶细灰";
+"tu_叶细棕" = "叶细棕";
+"tu_峰眉黑" = "峰眉黑";
+"tu_峰眉灰" = "峰眉灰";
+"tu_峰眉棕" = "峰眉棕";
+"tu_粗平黑" = "粗平黑";
+"tu_粗平灰" = "粗平灰";
+"tu_粗平棕" = "粗平棕";
+"tu_弯线黑" = "弯线黑";
+"tu_弯线灰" = "弯线灰";
+"tu_弯线棕" = "弯线棕";
+"tu_芭比黑" = "芭比黑";
+"tu_芭比灰" = "芭比灰";
+"tu_芭比棕" = "芭比棕";
+"tu_小桃黑" = "小桃黑";
+"tu_小桃灰" = "小桃灰";
+"tu_小桃棕" = "小桃棕";
+"tu_新月黑" = "新月黑";
+"tu_新月灰" = "新月灰";
+"tu_新月棕" = "新月棕";
+"tu_断眉黑" = "断眉黑";
+"tu_断眉灰" = "断眉灰";
+"tu_断眉棕" = "断眉棕";
+"tu_野生黑" = "野生黑";
+"tu_野生灰" = "野生灰";
+"tu_野生棕" = "野生棕";
+"tu_欧线黑" = "欧线黑";
+"tu_欧线灰" = "欧线灰";
+"tu_欧线棕" = "欧线棕";
+"tu_圆眉黑" = "圆眉黑";
+"tu_圆眉灰" = "圆眉灰";
+"tu_圆眉棕" = "圆眉棕";
+"tu_延禧黑" = "延禧黑";
+"tu_延禧灰" = "延禧灰";
+"tu_延禧棕" = "延禧棕";
+
+//3.6.0
+"lsq_filter_set_alpha" = "透明度";
+
+"lsq_filter_set_eyeSize" = "大眼";
+"lsq_filter_set_chinSize" = "瘦脸";
+"lsq_filter_set_cheekNarrow" = "窄脸";
+"lsq_filter_set_smallFace" = "小脸";
+"lsq_filter_set_noseSize" = "瘦鼻";
+"lsq_filter_set_noseHeight" = "长鼻";
+"lsq_filter_set_mouthWidth" = "嘴形";
+"lsq_filter_set_lips" = "厚唇";
+"lsq_filter_set_philterum" = "缩人中";
+"lsq_filter_set_archEyebrow" = "细眉";
+"lsq_filter_set_browPosition" = "眉高";
+"lsq_filter_set_jawSize" = "下巴";
+"lsq_filter_set_cheekLowBoneNarrow" = "下颌骨";
+"lsq_filter_set_eyeAngle" = "眼角";
+"lsq_filter_set_eyeInnerConer" = "开内眼角";
+"lsq_filter_set_eyeOuterConer" = "开外眼角";
+"lsq_filter_set_eyeDis" = "眼距";
+"lsq_filter_set_eyeHeight" = "眼移动";
+"lsq_filter_set_forehead" = "发际线";
+"lsq_filter_set_cheekBoneNarrow" = "瘦颧骨";
+
+"lsq_filter_set_eyelid" = "双眼皮";
+"lsq_filter_set_eyemazing" = "卧蚕";
+"lsq_filter_set_whitenTeeth" = "白牙";
+"lsq_filter_set_eyeDetail" = "亮眼";
+"lsq_filter_set_removePouch" = "去黑眼圈";
+"lsq_filter_set_removeWrinkles" = "去法令纹";
+
+/*--- 4.0.0 - 美妆 ---*/
+//"tu_lipstick" = "Lipstick";
+//"tu_blush" = "Blush";
+//"tu_eyebrow" = "Eyebrow";
+//"tu_eyeshadow" = "Eyeshadow";
+//"tu_eyeliner" = "Eyeliner";
+//"tu_eyelash" = "Eyelash";
+//"tu_foundation" = "Foundation";
+//"tu_shading powder" = "Shading Powder";
+//"tu_cosmeticReset" = "Cosmetic reset";
+"tu_lipstick" = "口红";
+"tu_blush" = "腮红";
+"tu_eyebrow" = "眉毛";
+"tu_eyeshadow" = "眼影";
+"tu_eyeliner" = "眼线";
+"tu_eyelash" = "睫毛";
+"tu_shading powder" = "修容";
+"tu_cosmeticReset" = "一键卸妆";
+
+//眼线
+"tu_back" = "Pack Up";
+"tu_reset" = "No";
+
+//口红
+"lipStick_1" = "枫叶红";
+"lipStick_2" = "正红色";
+"lipStick_3" = "牛血红";
+"lipStick_4" = "番茄橘";
+"lipStick_5" = "暖柿红";
+"lipStick_6" = "正橘色";
+"lipStick_7" = "珊瑚粉";
+"lipStick_8" = "玫红色";
+"lipStick_9" = "梅子色";
+"lipStick_10" = "覆盆子";
+"lipStick_11" = "肉桂色";
+"lipStick_12" = "奶茶色";
+"lipStick_13" = "豆沙色";
+
+"tu_水润" = "WaterWet";
+"tu_滋润" = "Moist";
+"tu_雾面" = "Matte";
+
+//眉毛
+
+//眉毛
+"tu_雾眉" = "Fog";
+"tu_雾根眉" = "Fogen";
+
+"tu_标准黑" = "标准黑";
+"tu_标准灰" = "标准灰";
+"tu_标准棕" = "标准棕";
+"tu_柳弯黑" = "柳弯黑";
+"tu_柳弯灰" = "柳弯灰";
+"tu_柳弯棕" = "柳弯棕";
+"tu_叶细黑" = "叶细黑";
+"tu_叶细灰" = "叶细灰";
+"tu_叶细棕" = "叶细棕";
+"tu_峰眉黑" = "峰眉黑";
+"tu_峰眉灰" = "峰眉灰";
+"tu_峰眉棕" = "峰眉棕";
+"tu_粗平黑" = "粗平黑";
+"tu_粗平灰" = "粗平灰";
+"tu_粗平棕" = "粗平棕";
+"tu_弯线黑" = "弯线黑";
+"tu_弯线灰" = "弯线灰";
+"tu_弯线棕" = "弯线棕";
+"tu_芭比黑" = "芭比黑";
+"tu_芭比灰" = "芭比灰";
+"tu_芭比棕" = "芭比棕";
+"tu_小桃黑" = "小桃黑";
+"tu_小桃灰" = "小桃灰";
+"tu_小桃棕" = "小桃棕";
+"tu_新月黑" = "新月黑";
+"tu_新月灰" = "新月灰";
+"tu_新月棕" = "新月棕";
+"tu_断眉黑" = "断眉黑";
+"tu_断眉灰" = "断眉灰";
+"tu_断眉棕" = "断眉棕";
+"tu_野生黑" = "野生黑";
+"tu_野生灰" = "野生灰";
+"tu_野生棕" = "野生棕";
+"tu_欧线黑" = "欧线黑";
+"tu_欧线灰" = "欧线灰";
+"tu_欧线棕" = "欧线棕";
+"tu_圆眉黑" = "圆眉黑";
+"tu_圆眉灰" = "圆眉灰";
+"tu_圆眉棕" = "圆眉棕";
+"tu_延禧黑" = "延禧黑";
+"tu_延禧灰" = "延禧灰";
+"tu_延禧棕" = "延禧棕";

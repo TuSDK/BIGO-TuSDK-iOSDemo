@@ -24,7 +24,7 @@
 #import <CStoreMediaEngineKit/CSMVideoCanvas.h>
 #define kRtmpUrl @"rtmp://169.136.125.28/test/test2"
 
-//#import "TuSDKManager.h"
+#import "TuSDKManager.h"
 
 @interface CSLiveViewController ()
 <
@@ -1070,23 +1070,23 @@ void releasePlanarBytesCallback(void *releaseRefCon, const void *dataPtr, size_t
 
 #pragma mark - CSCaptureDeviceDataOutputPixelBufferDelegate
 - (void)captureDevice:(CSCaptureDeviceCamera *)device didCapturedData:(CMSampleBufferRef)data {
-//    if (![TuSDKManager sharedManager].isInitFilterPipeline)
-//    {
+    if (![TuSDKManager sharedManager].isInitFilterPipeline)
+    {
         CVPixelBufferRef ref = CMSampleBufferGetImageBuffer(data);
         [self.mediaEngine sendCustomVideoCapturePixelBuffer:ref];
-//    }
-//    else
-//    {
-//
-//        CVPixelBufferRef cameraFrame = CMSampleBufferGetImageBuffer(data);
-//
-//        CVPixelBufferRef newPixelBuffer = [[TuSDKManager sharedManager] syncProcessSampleBuffer:data];
-//
-////        [[TuSDKManager sharedManager].filterProcessor destroyFrameData];
-//
-//        [self.mediaEngine sendCustomVideoCapturePixelBuffer:newPixelBuffer];
-//        CFRelease(newPixelBuffer);
-//    }
+    }
+    else
+    {
+
+        CVPixelBufferRef cameraFrame = CMSampleBufferGetImageBuffer(data);
+
+        CVPixelBufferRef newPixelBuffer = [[TuSDKManager sharedManager] syncProcessSampleBuffer:data];
+
+//        [[TuSDKManager sharedManager].filterProcessor destroyFrameData];
+
+        [self.mediaEngine sendCustomVideoCapturePixelBuffer:newPixelBuffer];
+        CFRelease(newPixelBuffer);
+    }
 }
 
 #pragma mark - CSMusicViewControllerDelegate
@@ -1131,7 +1131,7 @@ void releasePlanarBytesCallback(void *releaseRefCon, const void *dataPtr, size_t
 #pragma mark -- 初始化TuSDK的UI
 - (void)initTuSDKUI;
 {
-//    [[TuSDKManager sharedManager] configTuSDKViewWithSuperView:self.view];
+    [[TuSDKManager sharedManager] configTuSDKViewWithSuperView:self.view];
 }
 
 @end

@@ -15,7 +15,7 @@
 #import "CSDataStore.h"
 #import "CSTranscodingInfoManager.h"
 #import "CSTestArgSettingManager.h"
-//#import "TuSDKManager.h"
+#import "TuSDKManager.h"
 
 @interface AppDelegate ()
 
@@ -39,7 +39,8 @@
      *
      *  @param appkey 应用秘钥 (请前往 https://tutucloud.com 申请秘钥)
      */
-//    [[TuSDKManager sharedManager] initSdkWithAppKey:@"8c71548f7fbc33d2-04-ewdjn1"];
+    [[TuSDKManager sharedManager] initSdkWithAppKey:TuSDKAPPKET];
+    [TUPEngine Init:nil];
     
 //    NSLog(@"TuSDK.framework 的版本号 : %@",lsqSDKVersion);
 //    NSLog(@"TuSDKVideo.framework 的版本号 : %@",lsqVideoVersion);
