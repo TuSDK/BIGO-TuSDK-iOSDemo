@@ -1,0 +1,2 @@
+# BIGO-TuSDK-iOSDemo
+BIGO直播对接TuSDK美颜
