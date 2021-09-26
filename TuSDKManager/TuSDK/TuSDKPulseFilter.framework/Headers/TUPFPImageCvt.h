@@ -16,6 +16,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (TUPFPImage* _Nullable) convert:(CMSampleBufferRef) sb orientaion:(int)orientaion flip:(BOOL)flip mirror:(BOOL)mirror;
 
+- (TUPFPImage* _Nullable) convert:(CVPixelBufferRef)pb
+                    withTimestamp:(int64_t)ts
+                       orientaion:(int)orientaion
+                             flip:(BOOL)flip
+                           mirror:(BOOL)mirror;
+
 - (TUPFPImage* _Nullable) convert:(CVPixelBufferRef) pb withTimestamp:(int64_t) ts;
 
 @end
